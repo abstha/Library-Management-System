@@ -1,0 +1,3 @@
+harry potter,J.K Rowling,90,Rs400
+lord of the rings,R. R Tolkien,80,Rs350
+eragon,Christopher Paolini,150,Rs300
